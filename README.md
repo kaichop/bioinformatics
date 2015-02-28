@@ -1,5 +1,5 @@
 ## Introduction
-I am a principal investigator in a [genomics lab](http://genomics.usc.edu) at the University of Southern California. Members in our lab developed a number of bioinformatics software tools for analysis of next-generation sequencing data. Some of these tools are available at github repositories:
+I am a principal investigator in a [genomics lab](http://genomics.usc.edu) at the University of Southern California. Lab members and collaborators developed a number of bioinformatics software tools for analysis of genomics data sets. Some of these tools are available at github repositories:
 
 - [SeqMule](https://github.com/WangGenomicsLab/SeqMule): Automated human exome/genome variants detection
 - [iCAGES](https://github.com/WangGenomicsLab/icages): Prioritizing cancer driver genes and predicting drugs from sequencing data
