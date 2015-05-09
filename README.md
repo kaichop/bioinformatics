@@ -7,4 +7,4 @@ I am a principal investigator in a [genomics lab](http://genomics.usc.edu) at th
 - [Phenolyzer](https://github.com/WangGenomicsLab/phenolyzer): phenotype-based prioritization of candidate genes for human diseases
 - [lncScore](https://github.com/WangGenomicsLab/lncscore): Prediction of lncRNA from RNA-Seq data
 - [PennCNV](https://github.com/WangGenomicsLab/penncnv): Copy number variation detection from SNP arrays (written in Perl+C)
-- PennCNV2: Copy number variation detection from sequencing data
+- [PennCNV2](https://github.com/WangGenomicsLab/PennCNV2): Copy number variation detection from sequencing data
